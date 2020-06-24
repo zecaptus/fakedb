@@ -1,14 +1,14 @@
 {
- questions-answers: [
+ "questions-answers": [
   {
-    id: 1,
-    IDME: 1234,
-    author: 1,
-    createdAt: 1593011891842,
-    lastModification: 1593011908692,
-    question: "Est-ce que ça marche bien ?",
-    answer: "Oui, parfait",
-    published: true,
+    "id": 1,
+    "IDME": 1234,
+    "author": 1,
+    "createdAt": 1593011891842,
+    "lastModification": 1593011908692,
+    "question": "Est-ce que ça marche bien ?",
+    "answer": "Oui, parfait",
+    "published": true,
   }
  ]
 }
