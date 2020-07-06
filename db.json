@@ -3,7 +3,7 @@
   {
     "id":1,
     "IDME": 456,
-    "conversation":"blabla",
+    "conversation":"agent : 😃 bonjour et bienvenue, - je suis christian n. expert produits comment puis-je vous aider ? [28/11 14:39:20] christian n. ( agent : - bonjour,  [28/11 14:39:27] visiteur ( client : bonjour,[28/11 14:40:07] visiteur ( client : pouvez-vous me donner le montant en euros en cas de panne d'un produit ? svp[28/11 14:40:22] christian n. ( agent : pouvez-vous me donner la référence manomano du produit : elle commence par me suivi de chiffres, des ou du produit concerné, elle se situe sur chaque fiche produit en dessous de la désignationje vous remercie  [28/11 14:41:31] visiteur ( client :  pour le retour de marchandise me4326301[28/11 14:41:41] christian n. ( agent : je regarde votre référence [28/11 14:42:30] christian n. ( agent : il faudrait demander cette information à notre service client, ou bien auprès de transporteur, car je n'ai pas les tarifs retour  [28/11 14:43:18] christian n. ( agent : notre service client est joignable du lundi au vendredi de 9h à 20h. le numéro est le     0973729199 il s’agit d’un appel non surtaxé ! [28/11 14:43:52] visiteur ( client : merci beaucoup pour votre aide[28/11 14:44:01] christian n. ( agent :  je vous en prie à votre service 😃 [28/11 14:44:03] christian n. ( agent : c'est moi qui vous remercie 😊 et je vous souhaite une excellente journée 🌞 [28/11 14:45:17] christian n. ( agent : si vous n’avez pas besoin d’autres informationsje vous remercie de votre visiten'hésitez pas à ré ouvrir cette fenêtre… si nécessaire 😊 [28/11 14:45:24] visiteur ( client : bonne journée à vous aussi[28/11 14:45:31] christian n. ( agent :  merci",
     "platform":"FR",
     "qna_id": null,
     "id_user": 1,
@@ -19,8 +19,24 @@
    }
  ],
  "questions": [
-  { "id": 1, "idmeId": 456, "question": "balbal" },
-  { "id": 2, "idmeId": 456, "question": "balbal 2" }
+  { 
+   "id": 1, 
+   "idmeId": 456, 
+   "question": "Y'a-t-il besoin d'une alimentation électrique sur les WC suspendus ?",
+   "answer":"Non pas d'alimentation électrique."
+  },
+  { 
+   "id": 2, 
+   "idmeId": 456, 
+   "question": "La sortie de diamètre 100, est-ce possible de l'orienter vers un côté ?",
+   "answer":"Oui, vous pouvez le tourner."
+  },
+  { 
+   "id": 3, 
+   "idmeId": 456, 
+   "question": "C'est quoi la profondeur du bâti WC et la longueur de la cuvette ?",
+   "answer":"Profondeur bâti : 230 mm \r\n Cuvette : 520 mm"
+  }
  ],
  "questions-answers": [
   {
